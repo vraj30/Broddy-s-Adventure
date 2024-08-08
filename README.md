@@ -4,6 +4,15 @@
 
 **Broddy's Adventure** is an engaging 2D platformer game where players embark on a thrilling journey to retrieve their lost treasure. Traverse through various levels, defeat enemies, avoid deadly traps, and collect hidden gems and coins to achieve the highest score. With multiple levels of increasing difficulty, "Broddy's Adventure" offers an exciting experience filled with challenges and surprises.
 
+## Technologies Used:
+
+- Windows
+- C#
+- PHP (Backend)
+- Unity(Game Engine)
+- PhotoShop(For Graphics & UI)
+- Audacity (Music Editor)
+
 ## Features
 
 - **Offline Gameplay**: Enjoy the game anytime, anywhere, without the need for an internet connection.
